@@ -1,5 +1,5 @@
 All the twitch connection code is done by DougDoug and his team. 
-The visual additions, tallying, and all non twitch connection code is done by aVeryGreenBanana
+The visual additions, tallying, and all non connection/keycodes code is done by aVeryGreenBanana
 
 Setup Instructions:
 
