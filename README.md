@@ -10,4 +10,5 @@ When a vote occurs, the visuals will update to show the change
 ![image](https://github.com/aVeryGreenBanana/Visual-Polls-For-Twitch-and-Youtube-Streams/assets/94240128/8c81ca84-85de-4266-be12-80c94d51167a)
 To go to the next question, type +next into twitch/youtube chat
 ![image](https://github.com/aVeryGreenBanana/Visual-Polls-For-Twitch-and-Youtube-Streams/assets/94240128/d6148c26-0405-4222-a560-bb433b7ff29f)
-The ability to change the background color, highlight color, text color, images, etc. can also be done within the twitchpolldisplay.py file. Simply follow the instructions within the README.txt file within the VIsual Poll - Original Folder
+
+The ability to change the background color, highlight color, text color, images, etc. can be accessed within the twitchpolldisplay.py file. Simply follow the instructions within the README.txt file within the VIsual Poll - Original Folder
